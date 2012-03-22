@@ -1,0 +1,20 @@
+body {
+	font-size:16px;
+	background:black;
+ 	color:#80ff00;
+}
+a {
+	color:#80ff00;
+}
+.nav {
+	position:fixed;
+}
+.nav li {
+	list-style-type:circle;	
+}
+.content {
+	margin-left:130px;
+	height: 1000px;
+	background:#8000FF;
+	text-align:center;
+}
