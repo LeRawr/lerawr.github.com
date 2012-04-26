@@ -27,5 +27,13 @@ a {
 .project:hover {
 	background: #FF0000;
 }
-
+.link {
+	background: #000000;
+	display: inline-block;
+	padding: 10px;
+	border-radius:5px;
+}
+.link:hover {
+	background: #FF7400;
+}
 
