@@ -18,6 +18,9 @@ a {
 	background:#8000FF;
 	text-align:center;
 }
+.content li {
+	list-style-type:circle;
+}
 .project {
 	background: #000000;
 	display: inline-block;
