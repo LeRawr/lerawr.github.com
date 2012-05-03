@@ -21,6 +21,13 @@ a {
 .content li {
 	list-style-type:circle;
 }
+.contAbout {
+	margin-left:100px;
+	height: 1300px;
+	background:#8000FF;
+	text-align:left;
+}
+
 .project {
 	background: #000000;
 	display: inline-block;
